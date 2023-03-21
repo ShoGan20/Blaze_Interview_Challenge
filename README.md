@@ -23,6 +23,6 @@ Some thoughts on the challenge:
 	3. These values dont seem to hold a lot of influence in the predcition of verification.
 	4. To improve, we could try using the tweets of the user and applying Sentiment Analysis on it.
 	5. I tried using SMOTE and imblearn to help with the prediction but data was too small for that.
-	6. If given more time, I could use some better feature engineering methods and play with the hyper parameter
+	6. If given more time, I could use some better feature engineering methods such as tuning the location column and play with the hyperparameters a bit more.
 
  
